@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">login&amp;parol</string>
+    <string name="Parol">123457</string>
+    <string name="Login">123457@mail.ru</string>
+    <string name="right">Верно</string>
+    <string name="wrong">Вы ошиблись в пароле или логине</string>
+    <string name="right2"> </string>
+    <string name="wrong1"> </string>
+</resources>
